@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from VietNam</h3>
 <img align = "right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [ReactJS Basic](https://github.com/dinhtienbo/reactjs-basic)
+- 🔭 I’m currently working on [NTQ Solution](https://ntq.com.vn/)
 
 - 🌱 I’m currently learning **ASP.NET Core, ReactJS,**
 
